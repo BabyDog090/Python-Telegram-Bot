@@ -1,4 +1,4 @@
-# addmember-telegram
+# Python-Telegram-Bot
 Use `python 3` to add member from Group A to Group B (migrate members of your group)
 
 
@@ -79,11 +79,3 @@ This repo is now actively being maintained and updated by:
 south1907 and DanielTheGeek.
 
 Create a new issue if you have legit issues and we will do our best to resolve them.
-
-## Contributing:
-* Fork the repo on Github
-* Clone the repo using `git clone addmember-telegram`
-* Make changes and stage the files: `git add .`
-* Commit the changes: `git commit -m "Changed a few things"`
-* Push the changes to your Github repo: `git push -u origin main`
-* Submit a pull request.
